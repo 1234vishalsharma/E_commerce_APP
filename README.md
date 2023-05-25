@@ -9,4 +9,10 @@
 
 
  Here is the ScreenShots of User Pannel Of E_Com_Kart.
+ 
  ![Main Preview2](https://github.com/1234vishalsharma/E_commerce_APP/assets/91680279/b8c3799f-0674-404d-ae9a-b76d7d079351)
+ 
+ The User Pannel Was Built Complete With RaorPay Payment Gateway.
+ 
+ ![paymentgateway](https://github.com/1234vishalsharma/E_commerce_APP/assets/91680279/5d97b35e-4d05-435e-bbd0-f44cbcaca2d8)
+
